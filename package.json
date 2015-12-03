@@ -1,5 +1,5 @@
 {
-  "name": "utf-8-validate-fakejs",
+  "name": "utf-8-validate-jsfake",
   "version": "1.2.1",
   "description": "Validate UTF-8 for Web(Fake)",
   "main": "index.js",
