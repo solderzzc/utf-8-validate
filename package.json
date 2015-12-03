@@ -2,7 +2,7 @@
   "name": "utf-8-validate-fakejs",
   "version": "1.2.1",
   "description": "Validate UTF-8 for Web(Fake)",
-  "main": "fallback.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Only testing builds, test have to be extraced from `ws`\" && exit 0"
   },
@@ -13,7 +13,7 @@
   "keywords": [
     "utf-8-validate"
   ],
-  "author": "Einar Otto Stangvik <einaros@gmail.com> (http://2x.io)",
+  "author": "Einar Otto Stangvik <einaros@gmail.com> (http://2x.io), Simba Zhang <solderzzc@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/solderzzc/utf-8-validate/issues"
